@@ -112,7 +112,6 @@ Students in India (Classes 1–12) often face:
 | **Backend** | Node.js 24 (ESM modules, no frameworks) |
 | **Database** | SQLite via `node:sqlite` (Node built-in — no npm package) |
 | **HTTP Server** | `node:http` (Node built-in) |
-| **Deployment** | Railway (with `Procfile` + `railway.toml`) |
 | **Dependencies** | **Zero** — `npm install` is not required |
 
 ---
